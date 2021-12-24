@@ -3,5 +3,8 @@ a {
   pointer-events: none;
 }
 a + form {
-  margin-top: 10px;
+  margin-top: 1rem;
+}
+button {
+  margin-left: 1rem;
 }
