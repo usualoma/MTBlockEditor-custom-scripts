@@ -1,0 +1,7 @@
+a {
+  pointer-events: none;
+}
+
+a + form {
+  margin-top: 10px;
+}
